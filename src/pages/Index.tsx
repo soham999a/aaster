@@ -22,7 +22,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-10 items-center">
             <div className="relative animate-fade-in opacity-0">
               <img
-                src="astrologer.webp"
+                src="Indulekha.png"
                 alt="Spiritual Expert"
                 className="rounded-lg shadow-xl w-full max-w-md mx-auto"
               />
