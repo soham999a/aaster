@@ -130,11 +130,11 @@ const Footer = () => {
             <h4 className="text-lg font-medium mb-4 text-mystic-gold">Contact</h4>
             <div className="flex items-center mb-3">
               <Phone size={18} className="mr-2 text-mystic-gold" />
-              <span className="text-cool-gray">+91 98765 43210</span>
+              <span className="text-cool-gray">+91 9239223155</span>
             </div>
             <div className="flex items-center mb-4">
               <Mail size={18} className="mr-2 text-mystic-gold" />
-              <span className="text-cool-gray">info@cosmicconnections.com</span>
+              <span className="text-cool-gray">indulekha.cosmicconnections@gmail.com</span>
             </div>
             <div className="flex space-x-4">
               <a className="text-cool-gray hover:text-mystic-gold transition-colors">

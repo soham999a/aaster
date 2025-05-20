@@ -94,7 +94,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-medium">Phone</h3>
-                      <p className="text-cool-gray">+91 98765 43210</p>
+                      <p className="text-cool-gray">+91 9239223155</p>
                       <p className="text-cool-gray">Mon-Sat, 9AM-6PM</p>
                     </div>
                   </div>
@@ -105,7 +105,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-medium">Email</h3>
-                      <p className="text-cool-gray">info@harmonyseeker.com</p>
+                      <p className="text-cool-gray">indulekha.cosmicconnections@gmail.com</p>
                       <p className="text-cool-gray">Usually respond within 24 hours</p>
                     </div>
                   </div>
@@ -127,7 +127,7 @@ const Contact = () => {
 
                   <div className="flex flex-col space-y-4">
                     <a
-                      href="https://wa.me/919876543210"
+                      href="https://wa.me/919239223155"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors inline-flex items-center justify-center"
