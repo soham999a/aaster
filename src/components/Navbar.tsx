@@ -151,8 +151,6 @@ const NavLinks = ({ onClick, isMobile = false }: { onClick?: () => void; isMobil
             <a
               key={link.to}
               href={absoluteUrl}
-              target="_blank"
-              rel="noopener noreferrer"
               className={`font-medium transition-all duration-300 hover:text-mystic-gold flex items-center py-3 px-4 min-h-[44px] relative no-underline
                 ${isMobile ? 'w-full justify-center hover:bg-mystic-gold/5 rounded-lg' : 'hover-glow hover:scale-110'}`}
               onClick={() => {
