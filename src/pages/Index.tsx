@@ -22,8 +22,8 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-10 items-center">
             <div className="relative animate-fade-in opacity-0">
               <img
-                src="Indulekha.png"
-                alt="Spiritual Expert"
+                src="Indulekha.JPG"
+                alt="Indulekha"
                 className="rounded-lg shadow-xl w-full max-w-md mx-auto"
               />
             </div>
